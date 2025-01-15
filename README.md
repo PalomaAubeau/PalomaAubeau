@@ -32,7 +32,7 @@ I'm a **full-stack web/mobile developer**, passionate about **Front-End developm
 
 ## 💡 Top Projects
 - [Grimp Pep's](https://github.com/MarshMallowFR/jumpPepsBo) - An app designed to digitize and streamline the management of members in a climbing association.
-- [Easplit](https://github.com/PalomaAubeau/EASPLIT-new) - A refactored and improved collaborative project, aimed at making budget sharing for events reliable and intuitive.
+- [Easplit](https://github.com/PalomaAubeau/EASPLIT-review) - A refactored and improved collaborative project, aimed at making budget sharing for events reliable and intuitive.
 
 <br>
 
