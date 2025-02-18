@@ -9,6 +9,8 @@ I'm a **full-stack web/mobile developer**, passionate about **Front-End developm
 - 🤝 I love collaborating with others! I believe in the power of teamwork to create innovative solutions.
 - 🌍 Passionate about building **sustainable tech** and contributing to the green tech movement.
 - 📫 Feel free to contact me via [email](mailto:paloma.aubeau@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/paloma-aubeau).
+- - 🔗 Check out my portfolio [here](https://your-portfolio-link.com), built with **HTML, CSS, and JavaScript**!
+
 
 <br>
 
